@@ -19,10 +19,10 @@ I believe that mastering the basics is the foundation for building efficient and
 </h3>
 
 <p align="center">
-  <a href="https://instagram.com/mzaki_amanullah">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="blank"/>
+  <a href="https://instagram.com/mzaki_amanullah" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-zaki-56608230b/">
+  <a href="https://www.linkedin.com/in/muhammad-zaki-56608230b/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
 </p>
