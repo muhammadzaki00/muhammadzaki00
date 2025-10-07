@@ -20,10 +20,10 @@ I believe that mastering the basics is the foundation for building efficient and
 
 <p align="center">
   <a href="https://instagram.com/mzaki_amanullah" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-zaki-56608230b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
 </p>
 
